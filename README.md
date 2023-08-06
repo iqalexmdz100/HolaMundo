@@ -1,5 +1,5 @@
 # HolaMundo a todos
 Esto es algo que debe ser confirmado
 
-$A/B=c$
+$A/B=c+x^2$
 
