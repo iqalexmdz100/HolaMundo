@@ -1,5 +1,2 @@
-# HolaMundo a todos
-Esto es algo que debe ser confirmado
-
-$A/B=c+x^2$
-
+# Hola a todas y todos
+En este respositorio se encuentran ejercicios basicos y poco a poco iremos subiendo más
